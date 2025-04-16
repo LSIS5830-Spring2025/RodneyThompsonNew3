@@ -20,14 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: 1990s Hip Hop Culture and Sound
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
-# description appears in meta tags and other locations
+tagline: 1990s Hip Hop: The Golden Era That Redefined Rhythm, Resistance, and Reality.
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: The 1990s marked a pivotal decade in hip hop, transforming it from a rising street movement into a dominant cultural force worldwide. This era featured the emergence of influential artists and groups such as Tupac Shakur, The Notorious B.I.G., Nas, Wu-Tang Clan, A Tribe Called Quest, and Outkast. Characterized by lyrical complexity, social commentary, and diverse regional styles—from East Coast boom bap to West Coast G-funk and Southern bounce—the genre evolved both sonically and culturally. The 1990s also saw the rise of hip hop as a commercial powerhouse, with increasing influence in fashion, film, and mainstream media.
+author: Rodney Thompson
 
 ##########
 # COLLECTION SETTINGS
